@@ -6,6 +6,8 @@ Replace your new tab with a random ayah from the Quran and stay inspired by a ve
 
 - Displays a random ayah from the Quran on every new tab.
 - Keeps you inspired and connected to the teachings of the Quran throughout your browsing experience.
+- Simple and Elegant Design: The extension provides a clean and minimalist interface, focusing solely on delivering the wisdom of the Quran.
+- Customizable Settings: Tailor the experience to your preferences by adjusting settings such as font size and background color.
 
 ## Landing Page
 1. Visit (https://gadmuhammad.github.io/Quran-tab-landing-page/)
