@@ -28,4 +28,5 @@ Every time you open a new tab, you'll be greeted with a different ayah from the 
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please feel free to open an issue or submit a pull request.
+
 Feel free to get in touch with me on Telegram using the username: **@mohgad**
