@@ -23,7 +23,7 @@ Every time you open a new tab, you'll be greeted with a different ayah from the 
 
 ## Screenshots
 
-![Screenshot 1](images/Screenshot 2024-03-12 130329.png)
+![Screenshot 1](./images/Screenshot 2024-03-12 130329.png)
 
 ## Contributing
 
