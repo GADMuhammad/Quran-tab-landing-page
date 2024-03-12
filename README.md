@@ -14,8 +14,9 @@ Replace your new tab with a random ayah from the Quran and stay inspired by a ve
 ## Installation
 
 1. Visit (https://chromewebstore.google.com/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd?hl=en-US&utm_source=ext_sidebar)
-2. Click on the "Add to Chrome" button to install the extension.
-3. Once installed, open a new tab to see a random ayah from the Quran.
+2. Visit (https://bit.ly/qt-chrome)
+3. Click on the "Add to Chrome" button to install the extension.
+4. Once installed, open a new tab to see a random ayah from the Quran.
 
 ## Usage
 
