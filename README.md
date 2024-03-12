@@ -8,8 +8,7 @@ Replace your new tab with a random ayah from the Quran and stay inspired by a ve
 - Keeps you inspired and connected to the teachings of the Quran throughout your browsing experience.
 
 ## Landing Page
-1. Visit ([https://chromewebstore.google.com/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd?hl=en-US&utm_source=ext_sidebar](https://gadmuhammad.github.io/Quran-tab-landing-page/))
-2. 1. Visit (https://gadmuhammad.github.io/Quran-tab-landing-page/))
+1. Visit (https://gadmuhammad.github.io/Quran-tab-landing-page/)
 
 
 ## Installation
