@@ -21,7 +21,7 @@ Replace your new tab with a random ayah from the Quran and stay inspired by a ve
 
 Every time you open a new tab, you'll be greeted with a different ayah from the Quran, helping you stay inspired and connected to the teachings of Islam.
 
-## Image of project:
+## Image of project
 
 ![Landing Page Preview](images/Screenshot%202024-03-12%20130329.png)
 
