@@ -1,11 +1,11 @@
-import { observeElements, sections } from "./util.js";
+import { clickingLabelsWithKeyboard, observeElements } from './utils.js'
 
 const labelElements = document.querySelectorAll("label");
+const sectionElements = document.querySelectorAll("section");
 
-labelElements.forEach((item) =>
-  item.addEventListener("keydown", (e) => e.key === "Enter" && item.click())
-);
+clickingLabelsWithKeyboard(labelElements);
 
-// -----------------------
+observeElements(sectionElements);
 
-observeElements(sections);
+
+
